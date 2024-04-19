@@ -14,9 +14,9 @@
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
 
 <h4>backend: </h4>
-<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
-<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /></a>
-<a href="#">(express, flask)</a>
+<a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></code></a>
+<a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /></code></a>
+<!-- <a href="#">(express, flask)</a> -->
 
 <h4>languages: </h4>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
