@@ -15,10 +15,9 @@
 
 <h4>backend: </h4>
 <link rel="stylesheet" type='text/css' href= />
-<a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></code></a>
+<a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /></code></a>
 <a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></code></a>
 <a href="#"><code><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /></code></a>
-<a href="#">(express, flask)</a>
 
 <h4>languages: </h4>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
@@ -30,17 +29,19 @@
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
 
 <h4>databases: </h4>
+<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></a>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" /></a>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" /></a>
+
+<h4>cloud: </h4>
+<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /></a>
           
 
 <h4>tools: </h4>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/></a>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 <a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /></a>
-<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/travis/travis-original.svg" /></a>
-<a href="#"><img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
 
 <h2>📫 Contact me here:</h2>
 <a href="https://www.linkedin.com/in/oskargawryszewski/"><img width=16px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> /in/oskargawr</a>
