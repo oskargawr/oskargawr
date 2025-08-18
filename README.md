@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Oskar</h1>
-<h3 align="center">Software Engineer | 3rd Year Computer Science Student @ University of Gdansk</h3>
+<h3 align="center">Software Engineer | Computer Science Student graduate</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&center=true&width=435&lines=Full-stack+developer;Cloud+enthusiast;Continuous+learner" alt="Typing SVG" />
